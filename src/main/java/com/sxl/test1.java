@@ -12,5 +12,7 @@ public class test1 {
         System.out.println("这里是冲突合并,master");
         System.out.println("这里是冲突合并，hot");
         System.out.println("这里是push");
+         System.out.println("这里是pull");
+        
     }
 }
