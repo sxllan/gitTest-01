@@ -10,5 +10,6 @@ public class test1 {
         System.out.println("这是版本2");
         System.out.println("这是热修");
         System.out.println("这里是冲突合并,master");
+        System.out.println("这里是冲突合并，hot");
     }
 }
