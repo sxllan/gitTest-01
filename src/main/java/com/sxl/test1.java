@@ -8,6 +8,6 @@ public class test1 {
     public static void main(String[] args) {
         System.out.println("这是java连接git");
         System.out.println("这是版本2");
-        System.out.println("这是热修");
+        System.out.println("这里是冲突合并，hot");
     }
 }
