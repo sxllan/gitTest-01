@@ -15,6 +15,7 @@ public class test1 {
         System.out.println("这里是pull");
         System.out.println("gitee");
         System.out.println("这里是pull");
+        System.out.println("111111");
 
     }
 }
